@@ -7,6 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="F:/lib/jsoup-1.9.2.jar"/>
-	<classpathentry kind="lib" path="F:/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/lib/junit-4.8.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
